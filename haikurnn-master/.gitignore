@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.pkl
+Research
+**.hdf5
+**auth.py
+notebooks/_scratch
+**__pycache__
+**output_*
