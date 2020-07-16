@@ -1,4 +1,6 @@
 **/.DS_Store
 /Reference/*
 .ipynb_checkpoints
-train
+/haikuenv/*
+Dockerfile
+__pycache__
